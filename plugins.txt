@@ -1,6 +1,7 @@
 durable-task
 ssh-slaves
 token-macro
+workflow-step-api
 antisamy-markup-formatter
 ant
 build-blocker-plugin
@@ -28,7 +29,6 @@ mercurial
 node-iterator-api
 pam-auth
 parameterized-trigger
-plain-credentials
 robot
 scm-api
 simple-theme-plugin
